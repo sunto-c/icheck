@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/icheck/icheck",
+    "version": "1.0.2",
+    "description": "自定义单选框和复选按钮组件",
+    "name": "icheck",
+    "main": "icheck.js",
+    "dependencies": [
+      "jquery@1.9.1"
+    ]
+}
